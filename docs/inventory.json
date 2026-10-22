@@ -1,0 +1,22 @@
+{
+  "starting_commit": "d7a3c69714b19f5d19e761a427ff0c7add13d773",
+  "original_files": [
+    ".gitattributes",
+    ".ipynb_checkpoints/Keras Final Model-checkpoint.ipynb",
+    "Keras Final Model.ipynb",
+    "LICENSE",
+    "README.md"
+  ],
+  "original_environment": "Python 3.6.3; unpinned dependencies; see historical notebooks",
+  "restoration_environment": "Python 3.12",
+  "historical_results": "Saved model/training outputs preserved; no verified final held-out metric.",
+  "missing_resources": [
+    "local CIFAR-100 dataset cache",
+    "saved trained model"
+  ],
+  "original_dependencies": [
+    "keras",
+    "tensorflow",
+    "numpy"
+  ]
+}
